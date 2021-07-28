@@ -41,7 +41,7 @@ At the location of this program folder, open a terminal and type in
 In the opened terminal, type in  
 `venv/Scripts/activate`  
 After this command line, (venv) should appear at the begin of the prompt. Then type in  
-`pip3 install -r requirments.txt`
+`pip3 install -r requirements.txt`
 
 ## Run Program
 

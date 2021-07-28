@@ -19,23 +19,31 @@ Use only index and middle fingers. Put the two fingers closer than left click, t
 
 ### Double Left Click
 
-Use only index and middle fingers. Put the two fingers far to double-click.
+Use only index and middle fingers. Put the two fingers far to double-click. 
+
+### Scroll Up
+
+Use thumb and index fingers. Other fingers need to be closed.
+
+### Scroll Down
+
+Use thumb, index and middle fingers. Other fingers need to be closed.
 
 # Installation
 
-## Virtual Environment
+### Virtual Environment
 
 At the location of this program folder, open a terminal and type in  
 `virtualenv venv`
 
-## Dependencies
+### Dependencies
 
 In the opened terminal, type in  
 `venv/Scripts/activate`  
 After this command line, (venv) should appear at the begin of the prompt. Then type in  
-``pip3 install -r requirments.txt`
+`pip3 install -r requirments.txt`
 
-# Run Program
+## Run Program
 
 In the opened terminal, type in  
 `python3 main.py`
